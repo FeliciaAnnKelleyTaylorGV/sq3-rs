@@ -1,0 +1,14 @@
+ 
+ 
+Rust
+
+sq3_derive
+0.2.12
+Derive Macros
+Name
+ParseChar
+Type ‘S’ or ‘/’ to search, ‘?’ for more options…
+Settings
+Derive Macro sq3_derive::Name
+source · [−]
+#[derive(Name)]
